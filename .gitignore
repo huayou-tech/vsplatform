@@ -1,0 +1,54 @@
+# ========== Visual Studio / MSBuild 编译产物 ==========
+Debug/
+Release/
+x64/
+x86/
+ipch/
+*.aps
+*.ncb
+*.opt
+*.sdf
+*.suo
+*.user
+*.idb
+*.pdb
+*.ilk
+*.exp
+*.map
+*.lib
+*.obj
+*.res
+*.iobj
+*.ipdb
+*.tlog/
+*.lastbuildstate
+*.write.1u.tlog
+*.VC.db
+*.VC.VC.opendb
+.vs/
+
+# ========== 二进制 / 第三方库（不纳入售卖源码） ==========
+*.dll
+*.exe
+*.ocx
+*.sys
+*.rar
+*.zip
+*.7z
+*.gz
+*.bz2
+*.xz
+
+# ========== Python ==========
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# ========== 系统 / 编辑器 ==========
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.vscode/
