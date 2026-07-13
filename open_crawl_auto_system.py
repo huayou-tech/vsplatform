@@ -4,7 +4,7 @@ OpenCrawl 自动化内容生成系统
 功能：数据采集 → 内容生成 → 自动发布 → 数据监控
 
 作者：华又科技
-邮箱：tech@huayoutech.com
+邮箱：183144350@qq.com
 GitHub: https://github.com/huayou-tech
 """
 
@@ -288,7 +288,7 @@ https://github.com/huayou-tech/videomonitor-platform
 
 ---
 作者：华又科技
-邮箱：tech@huayoutech.com
+邮箱：183144350@qq.com
 """
         
         # 4. 保存文章

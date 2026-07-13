@@ -259,7 +259,7 @@ python csdn_auto_publisher.py
 ## 📞 技术支持
 
 如有问题，请联系:
-- 📧 Email: tech@huayoutech.com
+- 📧 Email: 183144350@qq.com
 - 🌐 Blog: https://blog.csdn.net/your_username
 - 💻 GitHub: https://github.com/huayou-tech/videomonitor-platform
 

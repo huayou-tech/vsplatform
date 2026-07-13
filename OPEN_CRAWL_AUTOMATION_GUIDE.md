@@ -469,7 +469,7 @@ python simple_crawler.py
 
 ## 技术支持
 
-- 📧 Email: tech@huayoutech.com
+- 📧 Email: 183144350@qq.com
 - 💬 微信：华又科技
 - 🌐 GitHub: https://github.com/huayou-tech
 

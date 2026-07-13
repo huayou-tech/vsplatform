@@ -101,7 +101,7 @@ MIT License
 
 ## 📧 联系方式
 
-- 邮箱：tech@huayoutech.com
+- 邮箱：183144350@qq.com
 - 技术博客：https://blog.huayoutech.com
 
 ---
